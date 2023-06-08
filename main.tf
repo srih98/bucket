@@ -5,7 +5,7 @@ secret_key = "BjDkuczBXFJgGJUJUhs6KAhZCEVJjlEQqsB8kJd9"
 }
 
 resource "aws_s3_bucket" "example" {
- bucket = "hello"
+ bucket = "hello98"
 
   tags = {
     Name        = "My bucket"
